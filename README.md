@@ -1,5 +1,6 @@
-tic_tac_tae
+Tic Tac Toe Game with Tkinter
 This repository contains a classic implementation of the popular Tic Tac Toe game using the Tkinter library in Python. The game provides a graphical user interface (GUI) that allows two players to take turns and compete in the traditional Tic Tac Toe game.
+
 Features
 User-friendly GUI: The game offers an interactive graphical interface built using the Tkinter library, providing an intuitive way to play.
 Player Turns: The game keeps track of player turns and allows two players to play alternately.
